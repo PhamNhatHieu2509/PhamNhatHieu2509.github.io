@@ -5,3 +5,4 @@
 [Layout4](https://phamnhathieu2509.github.io/Layout4)
 [Layout5](https://phamnhathieu2509.github.io/Layout5)
 [Layout6](https://phamnhathieu2509.github.io/Succes)
+[Layout7](https://phamnhathieu2509.github.io/Ex3)
