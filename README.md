@@ -5,13 +5,13 @@ Thực hiện bởi [Phạm Nhật Hiếu](http://github.com/pkvip9999)
 ## Liên Kết
 [Liên kết](https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/layout/simple%20layouts.psd)
 ## Giao diện
-[Layout1](https://phamnhathieu2509.github.io/Layout1)
-[Layout2](https://phamnhathieu2509.github.io/Layout2)
-[Layout3](https://phamnhathieu2509.github.io/Layout3)
-[Layout4](https://phamnhathieu2509.github.io/Layout4)
-[Layout5](https://phamnhathieu2509.github.io/Layout5)
-[Layout6](https://phamnhathieu2509.github.io/Layout6)
-[Layout7](https://phamnhathieu2509.github.io/Layout7)
+1.[Layout1](https://phamnhathieu2509.github.io/Layout1)
+2.[Layout2](https://phamnhathieu2509.github.io/Layout2)
+3.[Layout3](https://phamnhathieu2509.github.io/Layout3)
+4.[Layout4](https://phamnhathieu2509.github.io/Layout4)
+5.[Layout5](https://phamnhathieu2509.github.io/Layout5)
+6.[Layout6](https://phamnhathieu2509.github.io/Layout6)
+7.[Layout7](https://phamnhathieu2509.github.io/Layout7)
 ## Kiến thức nắm được
 
 Nắm bắt được cách thức chia bố cục Layout
