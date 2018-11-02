@@ -10,7 +10,7 @@ Thực hiện bởi [Phạm Nhật Hiếu](http://github.com/pkvip9999)
 3.[Layout3](https://phamnhathieu2509.github.io/Layout3)
 4.[Layout4](https://phamnhathieu2509.github.io/Layout4)
 5.[Layout5](https://phamnhathieu2509.github.io/Layout5)
-6.[Layout6](https://phamnhathieu2509.github.io/Layout6)
+6.[Layout6](https://phamnhathieu2509.github.io/Succes)
 7.[Layout7](https://phamnhathieu2509.github.io/Layout7)
 ## Kiến thức nắm được
 
